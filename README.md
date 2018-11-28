@@ -11,3 +11,4 @@ For help getting started with Flutter, view our online
 "# mex" 
 "# mee" 
 "# pls" 
+"# smart" 
